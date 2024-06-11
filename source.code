@@ -1,0 +1,28 @@
+#include <d3d11.h>
+#include <xinput.h>
+int WINAPI WinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE, _In_ char*, _In_ int show)
+{
+	if (MessageBoxW(0, L"Do you want to make a videogame or video game?", L"Ryoanne Dollform", MB_YESNO) == IDYES)
+	{
+		MessageBoxW(0, L"Please make said videogame or video game and press OK when done.", L"Ryoanne Dollform", MB_OK);
+		MessageBoxW(0, L"Thank you for making another jokey Toho video game", L"Ryoanne Dollform", MB_OK);
+	}
+	else
+	{
+		MessageBoxW(0, L"Thank you for not making another jokey Toho video game", L"Ryoanne Dollform", MB_OK);
+	}
+	return 0;
+}
+
+// Need to get a life.
+// Need to get a Facebook.
+// Need to either talk to 2000 (ACTUALLY LITERALLY) people or write Bassbook2.
+// Need to join 100 groups unless 8.
+// Need to create 20 groups and throw away 22.
+// Need to establish "presence" (in practice a YouTube).
+// Need to start a "secret agent campaining" (in practice a GoDaddy).
+// NOW you can reasonably accept invites (people will believe you are responsible).
+// Need to start a "secret agent campaining" (in practice a GoDaddy) 2.
+// NOW you can host a project.
+
+// Sorry. That it why I do not bother to GitHub. Sorry. Grubhub is better: they have hot dogs.
